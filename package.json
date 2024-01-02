@@ -1,0 +1,19 @@
+{
+  "name": "codingchallenges",
+  "version": "1.0.0",
+  "description": "a series of coding challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just-kwesi/codingChallenges.git"
+  },
+  "author": "Frederick Tetteh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/just-kwesi/codingChallenges/issues"
+  },
+  "homepage": "https://github.com/just-kwesi/codingChallenges#readme"
+}
